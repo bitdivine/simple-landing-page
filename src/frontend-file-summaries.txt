@@ -1,0 +1,6 @@
+{
+  "frontend/src/App.tsx": "Main application component displaying \"one\" centered on the page with a subtle gradient background and footer.",
+  "frontend/src/components/Footer.tsx": "Footer component with copyright notice and caffeine.ai attribution link with heart icon.",
+  "frontend/src/index.css": "Global styles with refined OKLCH color system for light and dark modes, featuring subtle accent colors for the gradient background.",
+  "frontend/src/hooks/useQueries.ts": "Empty file as no backend queries are required for this static landing page."
+}
